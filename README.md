@@ -1,81 +1,54 @@
+# Talk-A-Tive Chat App (MERN)
 
-# Talk-A-Tive
+<b>Talk to your friends! 🥳</b>
 
-Talk-a-tive is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+>Talk-a-tive is a <b>Full Stack Chatting App.</b> <br>
+>Uses Socket.io for <b>real time communication</b> and stores user details in encrypted format in <b>Mongo DB Database.</b>
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=A3DA8D)
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React Router Dom](https://img.shields.io/badge/-React%20Router%20Dom-61DAFB?style=flat-square&logo=reactrouter)
+![Axios.js](https://img.shields.io/badge/-Axios.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+<br>
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=000)
+![Socket.io](https://img.shields.io/badge/-Socket.io-F6D860?style=flat-square&logo=Socket.io&logoColor=010101)
+<br>
+<a href="https://github.com/piyush-eon/mern-chat-app" alt="reference" target="_blank"><img src="http://img.shields.io/badge/-Reference-007ACC?style=flat-square&logo=github&logoColor=ffffff" > </a>
+
+<!--- ## [Website](https://talk-a-tive-chat-app.herokuapp.com/) -->
+
+https://user-images.githubusercontent.com/47933193/147628723-be45d327-2abf-4ea7-8c34-c0cdeb09e1f5.mp4
+
+<br>
+
 ## Tech Stack
 
-**Client:** React JS
+Client: <b>`React JS`</b>
 
-**Server:** Node JS, Express JS
+Server: <b>`Node.js`</b>, <b>`Express.js`</b>
 
-**Database:** Mongo DB
-  
-## Demo
+Database: <b>`Mongo DB`</b>
 
-https://talk-a-tive.herokuapp.com/
+<br>
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-## Run Locally
+## Features
+- <b>`Authentication`</b>
+  - Log In
+  - Sign Up
+- <b>`User Profile`</b>
+- <b>`Search Users`</b>
+- <b>`Real-time Chatting with Typing Indicator`</b>
+- <b>`Chat Notification`</b>
 
-Clone the project
+- <b>`One-to-One Chat`</b>
 
-```bash
-  https://github.com/Akash-Chowdhury/MERN-CHAT-APP.git
-```
+- <b>`Group Chat`</b>
+  - Create Group Chat
+  - Update Group Name
+  - Add / Remove Users from group
 
-Go to the project directory
-
-```bash
-  cd mern-chat-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-```bash
-  cd frontend/
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-Start the Client
-
-```bash
-  //open now terminal
-  cd frontend
-  npm start
-```
-
-  
-# Features
-
-### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
-
-## - Akash Chowdhury
-
-  
