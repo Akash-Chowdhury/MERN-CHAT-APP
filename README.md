@@ -21,7 +21,7 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  https://github.com/Akash-Chowdhury/MERN-CHAT-APP.git
 ```
 
 Go to the project directory
@@ -76,6 +76,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+## - Akash Chowdhury
 
   
