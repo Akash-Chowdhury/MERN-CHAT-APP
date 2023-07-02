@@ -16,7 +16,7 @@ import UpdateGroupChatModal from "./miscellaneous/UpdateGroupChatModa";
 import { ChatState } from "../Context/ChatProvider";
 
 
-const ENDPOINT ="https://mern-chat-app-red.vercel.app/" // "https://talk-a-tive.herokuapp.com"; -> After deployment "http://localhost:5000";
+const ENDPOINT ="http://localhost:5000" // "https://talk-a-tive.herokuapp.com"; -> After deployment "http://localhost:5000";
 var socket, selectedChatCompare;
 
 
